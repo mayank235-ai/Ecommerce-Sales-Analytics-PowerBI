@@ -1,4 +1,4 @@
-# 🛒📊 ECOMMERCE SALES ANALYTICS DASHBOARD | POWER BI
+# 📊🛒 ECOMMERCE SALES ANALYTICS DASHBOARD | POWER BI
 
 An interactive **Power BI dashboard** designed to analyze ecommerce sales data and deliver **actionable business insights** by tracking revenue, profit, customer behavior, product performance, and payment trends.
 
