@@ -89,8 +89,7 @@ Both datasets were merged using **Order ID** for comprehensive analysis.
 
 ## 📸 Dashboard Preview
 
-![Ecommerce Sales Dashboard](images/ecommerce_dashboard.png)
-
+DASHBOARD.jpg
 ---
 
 ## 🚀 Key Learnings
@@ -113,7 +112,7 @@ Ecommerce-Sales-Analytics-PowerBI/
 │   └── Ecommerce_Sales_Dashboard.pbix
 │
 └── images/
-    └── ecommerce_dashboard.png
+    └── ecommerce_dashboard.jpg
 
 
 
