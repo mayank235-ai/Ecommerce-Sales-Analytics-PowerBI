@@ -89,7 +89,7 @@ Both datasets were merged using **Order ID** for comprehensive analysis.
 
 ## 📸 Dashboard Preview
 
-DASHBOARD.jpg
+https://github.com/mayank235-ai/Ecommerce-Sales-Analytics-PowerBI/blob/main/DASHBOARD.jpg
 ---
 
 ## 🚀 Key Learnings
