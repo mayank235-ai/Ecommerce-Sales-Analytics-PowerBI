@@ -102,8 +102,6 @@ https://github.com/mayank235-ai/Ecommerce-Sales-Analytics-PowerBI/blob/main/DASH
 
 Ecommerce-Sales-Analytics-PowerBI/
 │
-├── README.md
-│
 ├── data/
 │   ├── Orders.csv
 │   ├── Details.csv
@@ -111,8 +109,11 @@ Ecommerce-Sales-Analytics-PowerBI/
 ├── dashboard/
 │   └── Ecommerce_Sales_Dashboard.pbix
 │
-└── images/
-    └── ecommerce_dashboard.jpg
+├── images/
+│   └── ecommerce_dashboard.png
+│
+└── README.md
+
 
 
 
